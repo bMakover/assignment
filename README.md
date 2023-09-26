@@ -5,7 +5,7 @@ MedMonitor is a Node.js application that provides a boilerplate for building an 
 
 ## Installation
 
-To get started with P1, follow these steps:
+To get started with MedMonitor, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `npm install`.
