@@ -1,7 +1,7 @@
 
-# P1
+# MedMonitor
 
-P1 is a Node.js application that provides a boilerplate for building an Express.js web server with Sequelize ORM and MySQL database. The application is designed to be easy to use and configure, making it ideal for rapid prototyping or small-scale projects.
+MedMonitor is a Node.js application that provides a boilerplate for building an Express.js web server with Sequelize ORM and MySQL database. The application is designed to be easy to use and configure, making it ideal for rapid prototyping or small-scale projects.
 
 ## Installation
 
@@ -28,7 +28,7 @@ Once the application is running, you can access it by navigating to `http://loca
 
 ## Dependencies
 
-P1 relies on the following dependencies:
+MedMonitor relies on the following dependencies:
 
 - `dotenv`: For loading environment variables from a `.env` file.
 - `express`: For building the web server.
