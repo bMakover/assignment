@@ -1,11 +1,11 @@
 
-# MedMonitor
+# Node.js Server Assignment
 
-MedMonitor is a Node.js application that provides a boilerplate for building an Express.js web server with Sequelize ORM and MySQL database. The application is designed to be easy to use and configure, making it ideal for rapid prototyping or small-scale projects.
+This is a Node.js application that provides a boilerplate for building an Express.js web server with Sequelize ORM and MySQL database. The application is designed to be easy to use and configure, making it ideal for rapid prototyping or small-scale projects.
 
 ## Installation
 
-To get started with MedMonitor, follow these steps:
+To get started, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `npm install`.
@@ -28,7 +28,7 @@ Once the application is running, you can access it by navigating to `http://loca
 
 ## Dependencies
 
-MedMonitor relies on the following dependencies:
+This application relies on the following dependencies:
 
 - `dotenv`: For loading environment variables from a `.env` file.
 - `express`: For building the web server.
